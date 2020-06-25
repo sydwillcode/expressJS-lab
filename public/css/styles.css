@@ -1,0 +1,8 @@
+body {
+    background: lightblue;
+    color: white;
+}
+
+.list-group-item {
+    background: rgb(18, 172, 192);
+}
